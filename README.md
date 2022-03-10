@@ -7,7 +7,7 @@ EVA (Effect Video Animate)是YY营收团队开发，用于播放混合动态MP4�
 * 资源输出工具使用AE-CEP开发，设计师能够快速导出混合动画特效
 
 
-项目插件介绍，请参考 [Introduction_AE_Converter.md](./ae-tools/Introduction_AE_Converter.md)
+项目插件介绍，请参考 [Introduction_AE_Converter.md](./ae-tools/README.md)
 
 特效展示：
 
