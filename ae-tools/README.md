@@ -26,9 +26,9 @@
             3.检查是否 多出一个 ”YY-MP4转换“ 的工具 
 * **创建创建YYConvertMP4模板 （必须步骤）**
     
-    * 打开AE，选择编辑-》模块-》输出模块 ![](../images/ae_add_template_1/png)
+    * 打开AE，选择编辑-》模块-》输出模块 ![](../images/ae_add_template_1.png)
 
-    * 按如下步骤创建YYConvertMP4输出模板 ![](../images/ae_add_template_2/png)
+    * 按如下步骤创建YYConvertMP4输出模板 ![](../images/ae_add_template_2.png)
   
   
 
@@ -36,11 +36,14 @@
   
   该模块是给AE扩充了 渲染 MP4资源的能力
   
-  * 选择一个合成
-  * 
+* 打开 AE 扩展 ![](../images/open_ae_plugin.png)
 
   
-  
+* 选择一个合成，切换264/265 Tab,选择输出路径，并选中档位 ![](../images/output_normal.png)
+
+ * 查看输出文件 ![](../images/output_normal_file.png)    
+
+     
   ### step3 : 导出混合MP4资源 
 
 
